@@ -16,6 +16,7 @@
     "express": "^4.21.0",
     "franc": "^6.2.0",
     "langmap": "^0.0.16",
-    "multer": "^1.4.5-lts.1"
+    "multer": "^1.4.5-lts.1",
+    "tesseract.js": "^5.1.1"
   }
 }
